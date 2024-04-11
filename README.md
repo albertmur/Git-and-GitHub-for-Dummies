@@ -22,7 +22,11 @@ And then, we commit:
 git commit -m 'message to know what is that we are committing'
 ```
 ---
-To check previous commits and modify / add them, we use, knowing their "haschode":
+To see a "timeline" of our edits: 
+```
+git log
+```
+To check previous commits and modify / add them, we use, knowing the "haschode" we obtained with git log:
 ```
 git checkout hashcode
 ```
