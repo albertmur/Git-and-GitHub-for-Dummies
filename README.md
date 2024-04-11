@@ -40,3 +40,4 @@ git checkout <branch-name>
 git checkout -
 ```
 ---
+Primer dia: 11 abril
